@@ -1,0 +1,14 @@
+h1 {
+  color: black;
+  background-color: turquoise;
+  border-top-right-radius: 99%;
+  width: 200px;
+}
+
+h6 {
+  color: white;
+
+  border-top-left-radius: 99%;
+  width: 150px;
+}
+

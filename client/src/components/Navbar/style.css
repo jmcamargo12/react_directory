@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+}
+
+.container-fluid {
+  text-align: left;
+}
+
+p {
+  float: left;
+  color: whitesmoke;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: monospace;
+  color: rgb(160, 15, 160);
+}
+.employee {
+  border: 1px dashed yellow;
+  height: 20px;
+  color: white;
+  background-color: transparent;
+  font-size: 16px;
+  font-family: fantasy;
+}
+
+button {
+  float: left;
+  color: white;
+  background-color: transparent;
+  font-size: 14px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+button:hover {
+  cursor: pointer;
+  border-radius: 9%;
+  float: left;
+  color: rgb(60, 161, 29);
+  background-color: transparent;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div {
+  padding: 1%;
+}
+
+#filterState {
+  border-radius: 4%;
+  height: 24%;
+  float: left;
+}
+img {
+  margin-left: -800px;
+  border-radius: 99%;
+  height: 79px;
+}
+
+.search {
+  margin-top: -120px;
+}
